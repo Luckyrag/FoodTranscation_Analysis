@@ -1,9 +1,9 @@
-# FoodTranscation_Analysis
+# 📊FoodTranscation_Analysis
 #### This project Provides the Analysis of the Food Allowance in 2 months using the Dataset from Govt. Free Source Data.
-## Overview
+## Overview🚀
 The "Food Distribution Analysis" project aims to analyze and visualize the food distribution data for two months, July and August, to gain insights into district-wise and day-wise transactions. This data-driven project uses Python and the Streamlit framework to create an interactive web application for stakeholders to explore the distribution trends and identify patterns that can help optimize future food distribution.
 
-#### Key Features
+#### Key Features🎯
 
 Interactive User Interface:
 A visually appealing home page with a central logo and title.
@@ -26,7 +26,7 @@ Allows users to view individual district-wise transaction data for both months.
 Includes descriptive statistics for the datasets, providing insights like mean, median, and other statistical summaries.
 
 
-#### Analysis Section:
+#### 📂Analysis Section:
 
 ##### Data Visualization:
 Bar and line charts visualize day-wise total availed cards for both months.
